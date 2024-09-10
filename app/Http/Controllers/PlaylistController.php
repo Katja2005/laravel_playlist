@@ -95,3 +95,6 @@ class PlaylistController extends Controller
         return redirect('/playlist')->with('success', 'Playlist deleted successfully!');
     }
 }
+
+
+
